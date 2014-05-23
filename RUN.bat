@@ -1,0 +1,2 @@
+start start.bat
+exit
